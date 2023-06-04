@@ -33,7 +33,7 @@
 
 最终服务器端架构模块
 
-guigu-oa-parent：根目录，管理子模块：
+oa-parent：根目录，管理子模块：
 
 ​	common：公共类父模块
 
